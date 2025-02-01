@@ -1,1 +1,1 @@
-# Kupida
+# Kupida - a social website 
